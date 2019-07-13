@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460838314241",
+    "firebase_url": "https://stepsbooster1.firebaseio.com",
+    "project_id": "stepsbooster1",
+    "storage_bucket": "stepsbooster1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460838314241:android:6f9a3e83c66d5414",
+        "android_client_info": {
+          "package_name": "com.example.stepsbooster1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460838314241-9i2lhmm0uqg3tmguqd81loss9bsteg3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stepsbooster1",
+            "certificate_hash": "1c8a61e210987409727aabe4823e40523c365e9e"
+          }
+        },
+        {
+          "client_id": "460838314241-p2lu5khtq59kc9mecvt8qba9tnrd30t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMduZXuSeN9FIMnpKR-us8Wk3nEROyQhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460838314241-p2lu5khtq59kc9mecvt8qba9tnrd30t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
